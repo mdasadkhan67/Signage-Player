@@ -1,0 +1,28 @@
+{
+  "result": [
+    {
+      "type": "image",
+      "url": "https://images.pexels.com/photos/32417863/pexels-photo-32417863.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4"
+    },
+    {
+      "type": "image",
+      "url": "https://images.pexels.com/photos/33052931/pexels-photo-33052931.jpeg?cs=srgb&dl=pexels-olga-chursina-587683405-33052931.jpg&fm=jpg"
+    },
+    {
+      "type": "video",
+      "url": "https://videos.pexels.com/video-files/26239167/11942001_1080_1920_60fps.mp4"
+    },
+    {
+      "type": "image",
+      "url": "https://images.pexels.com/photos/34213341/pexels-photo-34213341.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://videos.pexels.com/video-files/36707217/15558695_1080_1920_30fps.mp4"
+    }
+  ]
+}
