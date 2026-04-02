@@ -202,6 +202,15 @@ The startup flow is designed carefully.
 main → splash → media screen → initialize JSON → start playback
 ```
 
+## 9) Internet Connectivity Handling (NEW)
+
+To ensure stable performance in real-world environments (like TV signage systems), the application includes network monitoring using:
+
+```text
+connectivity_plus: ^6.0.3
+```
+
+
 ### Splash Responsibilities
 
 * initial loading UI
